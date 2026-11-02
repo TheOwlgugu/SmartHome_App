@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">智能家居</string>
+
+    <string name="conn_title">控制器</string>
+    <string name="conn_connected">已连接</string>
+    <string name="conn_disconnected">未连接</string>
+    <string name="conn_connecting">连接中…</string>
+    <string name="conn_hint">点击设置 IP</string>
+
+    <string name="dev_light">灯光</string>
+    <string name="dev_fan">风扇</string>
+    <string name="icon_light">💡</string>
+    <string name="icon_fan">🌀</string>
+
+    <string name="state_on">开</string>
+    <string name="state_off">关</string>
+
+    <string name="btn_light">灯光开关</string>
+    <string name="btn_fan">风扇开关</string>
+
+    <string name="dialog_title">控制器地址</string>
+    <string name="dialog_hint_ip">IP 地址，如 192.168.1.199</string>
+    <string name="dialog_hint_port">端口</string>
+    <string name="dialog_ok">连接</string>
+    <string name="dialog_cancel">取消</string>
+
+    <string name="toast_not_connected">还没连上控制器</string>
+    <string name="toast_bad_ip">IP 不能为空</string>
+</resources>
